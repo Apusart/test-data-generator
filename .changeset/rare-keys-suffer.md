@@ -1,5 +1,5 @@
 ---
-"test-data-generator": patch
+"@apusart/test-data-generator": patch
 ---
 
 Changed scope
