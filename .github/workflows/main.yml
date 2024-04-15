@@ -17,7 +17,3 @@ jobs:
         run: npm ci
       - name: Lint & Build
         run: npm run lint && npm run build
-      - name: Publish to npm
-        run: |
-          echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
-          npm publish

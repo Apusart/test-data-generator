@@ -1,3 +1,4 @@
-export function add(a: number, b: number): number {
-  return a + b;
-}
+import "reflect-metadata";
+
+export * from "./generators";
+export * from "./factory";
