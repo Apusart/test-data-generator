@@ -2,4 +2,4 @@
 "@apusart/test-data-generator": patch
 ---
 
-Added owner
+Fix github actions

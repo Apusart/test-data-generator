@@ -1,12 +1,14 @@
 {
   "name": "@apusart/test-data-generator",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "TestDataGenerator is a modest npm package tailored to assist TypeScript developers in effortlessly generating test data using annotations. By simply annotating class properties, developers can establish rules for generating mock data, simplifying the testing process. TestDataAnnotations offers a straightforward solution to ensure robust and reliable test data in your TypeScript projects.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsup src/index.ts --format cjs,esm --dts",
+    "publish": "npx changeset publish",
+    "release": "npm run build && npm run publish",
     "lint": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
