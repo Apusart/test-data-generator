@@ -1,24 +1,17 @@
-# TestDataAnnotations
+<p>
+<strong>TestDataAnnotations</strong> is a lightweight npm package designed to simplify the process of generating test data using annotations in TypeScript projects.
+</p>
 
-## Description
-
-TestDataAnnotations is a lightweight npm package designed to simplify the process of generating test data using annotations in TypeScript projects.
-
-## Table of Contents
-
-- [TestDataAnnotations](#testdataannotations)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-    - [Test data definition](#test-data-definition)
-      - [Overview](#overview)
-      - [Example](#example)
-    - [Available Annotations](#available-annotations)
-    - [Creating factory](#creating-factory)
-    - [Using factory](#using-factory)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Test data definition](#test-data-definition)
+    - [Overview](#overview)
+    - [Example](#example)
+  - [Available Annotations](#available-annotations)
+  - [Creating factory](#creating-factory)
+  - [Using factory](#using-factory)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Installation
 
@@ -172,5 +165,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 ## License
 
 TestDataAnnotations is licensed under the MIT License. See the [LICENSE](https://github.com/Apusart/test-data-generator/blob/main/LICENSE) file for details.
-
-**Tags:** `test-data`, `faker.js`, `type-generation`
