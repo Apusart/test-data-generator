@@ -20,6 +20,15 @@
     "tsup": "^8.0.2",
     "typescript": "^5.4.5"
   },
+  "keywords": [
+    "test-data",
+    "annotations",
+    "faker.js",
+    "type generation",
+    "TypeScript",
+    "unit testing",
+    "model factories"
+  ],
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
     "lodash": "^4.17.21",
