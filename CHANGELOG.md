@@ -1,5 +1,11 @@
 # test-data-generator
 
+## 1.0.6
+
+### Patch Changes
+
+- b072938: Fixed documentation
+
 ## 1.0.5
 
 ### Patch Changes
