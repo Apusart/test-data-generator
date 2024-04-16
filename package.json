@@ -24,5 +24,9 @@
     "@faker-js/faker": "^8.4.1",
     "lodash": "^4.17.21",
     "reflect-metadata": "^0.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Apusart/test-data-generator"
   }
 }
