@@ -1,5 +1,12 @@
 # test-data-generator
 
+## 1.0.8
+
+### Patch Changes
+
+- 2aa63c6: Add email generator
+- c81f3c5: Add email generator
+
 ## 1.0.6
 
 ### Patch Changes
