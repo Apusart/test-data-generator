@@ -2,4 +2,4 @@
 "@apusart/test-data-generator": patch
 ---
 
-Fixed documentation
+Add email generator
