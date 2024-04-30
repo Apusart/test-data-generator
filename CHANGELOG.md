@@ -1,12 +1,20 @@
 # test-data-generator
 
-## 1.0.4
+## 1.0.6
+
+### Patch Changes
+
+- b072938: Fixed documentation
+
+## 1.0.5
 
 ### Patch Changes
 
 - 980d673: Added readme
-- b072938: Fixed documentation
-- 8081d0d: Fix github actions
+
+## 1.0.4
+
+### Patch Changes
 
 ## 1.0.1
 
