@@ -16,8 +16,6 @@
 
 ### Patch Changes
 
-- 8081d0d: Fix github actions
-
 ## 1.0.1
 
 ### Patch Changes

@@ -6,3 +6,4 @@ export * from "./GenBoolean.decorator";
 export * from "./GenArray.decorator";
 export * from "./GenUuid.decorator";
 export * from "./GenProperty.decorator";
+export * from "./GenEmail.decorator";

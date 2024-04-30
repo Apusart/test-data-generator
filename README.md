@@ -81,7 +81,8 @@ These annotations are strongly based on the type generation capabilities provide
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------- |
 | `@GenArray(length?)` | Generates an array for the annotated property. The `length` parameter specifies the number of elements in the array. It requires annotation declaring the type.    | `1`
 | `@GenBoolean()`| Generates a boolean | -
-| `@GenEnum(enum)` | Generates value of provided | `any`
+| `@GenEnum(enum)` | Generates value of provided enum | `any`
+| `@GenEmail(options?)` | Generates email | `{ firstName?: "string", lastName?: "string", provider: "string" }`
 | `@GenNumber(options?)`   | Generates a number for the annotated property. Options can specify the type (e.g., `int`, `float`) and define the range of values.                                        | `{ type: "int", options: undefined }`
 | `@GenString(options?)`   | Generates a string for the annotated property. By default, it generates an alphanumerical string. Options can customize the generated string, such as length or format. | `{ type: "alphabetical", options: undefined }`
 | `@GenType(type)` | Generates instance of a type provided as parameter | `T extends object`
